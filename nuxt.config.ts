@@ -1,16 +1,16 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  modules: [[
+  modules: [
+    [
       '@pinia/nuxt',
       {
-        autoImports: [
-          'defineStore',
-          ['defineStore', 'definePiniaStore'],
-        ],
-      },
+        autoImports: ['defineStore', ['defineStore', 'definePiniaStore']]
+      }
     ],
-    "@nuxtjs/tailwindcss"],
+    '@nuxtjs/tailwindcss',
+    '@nuxtjs/stylelint-module'
+  ],
   typescript: {
     typeCheck: true
   }

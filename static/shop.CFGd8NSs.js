@@ -1,0 +1,1 @@
+import{_ as e,c,o as s}from"./entry.YGKf4ADk.js";const a={},n={class:"main-container relative h-screen w-screen"};function o(t,r){return s(),c("div",n)}const i=e(a,[["render",o],["__scopeId","data-v-08ca58a2"]]);export{i as default};

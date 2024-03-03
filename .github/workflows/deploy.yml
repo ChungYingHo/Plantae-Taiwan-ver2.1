@@ -1,5 +1,5 @@
 # automatically deploy to GitHub Pages
-name: PLANTAE Taiwan
+name: Deploy to GitHub Pages
 on:
   workflow_dispatch:
   push:

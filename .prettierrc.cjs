@@ -8,8 +8,8 @@ module.exports = {
   trailingComma: 'none',
   bracketSpacing: true,
   arrowParens: "always",
-  vueIndentScriptAndStyle: true,
   bracketSameLine: false,
+  endOfLine: "auto",
   htmlFormat: "auto",
   javascriptFormat: "auto",
 }

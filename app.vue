@@ -1,8 +1,11 @@
 <template>
-  <div>
-    <NuxtWelcome />
-    <h1 class="container rounded-lg text-3xl font-bold underline">
-      Hello world!
-    </h1>
-  </div>
+  <NuxtLayout>
+    <NuxtPage />
+  </NuxtLayout>
 </template>
+
+<style scoped lang="scss">
+/* div {
+  cursor: url('/assets/icons/cursor.png'), auto;
+} */
+</style>

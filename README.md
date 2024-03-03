@@ -128,4 +128,4 @@ node --eval "fs.writeFileSync('.prettierrc','{}\n')"
 
 ## 參考資源
 1. [Nuxt.js 3.x Stylelint SCSS 程式碼檢查與自動排版](https://clairechang.tw/2023/08/04/nuxt3/nuxt-v3-stylelint/)
-2. 
+2. [Day 29 鐵人賽太空粒子的例子](https://emtech.cc/post/2023ironman-29/)

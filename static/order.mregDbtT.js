@@ -1,0 +1,1 @@
+import{_ as e,c,o as r}from"./entry.DC96raCJ.js";const n={},o={class:"main-container relative h-screen w-screen"};function s(t,a){return r(),c("div",o)}const d=e(n,[["render",s],["__scopeId","data-v-c921c3c9"]]);export{d as default};
